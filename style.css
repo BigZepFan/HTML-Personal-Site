@@ -1,0 +1,17 @@
+body {
+font-family: 'Russo One', sans-serif;
+color: rebeccapurple;
+font-size: 22px;
+}
+
+  h2 {
+  font-family: 'Henny Penny', cursive;
+  color:#00A6ED;
+  font-size: 75px;
+  text-decoration: overline underline;
+  text-transform: capitalize;
+}
+h1 {
+  font-family: 'Kalam', cursive;
+  color: rebeccapurple;
+}
