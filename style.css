@@ -1,17 +1,17 @@
 body {
-font-family: 'Russo One', sans-serif;
-color: rebeccapurple;
-font-size: 22px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: darkblue;
 }
 
-  h2 {
-  font-family: 'Henny Penny', cursive;
-  color:#00A6ED;
+h2 {
+  font-family: "Henny Penny", cursive;
+  color: #00a6ed;
   font-size: 75px;
   text-decoration: overline underline;
   text-transform: capitalize;
 }
 h1 {
-  font-family: 'Kalam', cursive;
+  font-family: "Kalam", cursive;
   color: rebeccapurple;
 }
