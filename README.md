@@ -1,2 +1,3 @@
 # THE PERSONAL WEBSITE DEMO
-## DWIGHT M COX
+
+## Dwight M. Cox
